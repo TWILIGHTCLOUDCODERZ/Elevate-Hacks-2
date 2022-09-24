@@ -12,6 +12,7 @@ Bot asks users questions like their age, gender, and location, any symptoms they
 &emsp;&emsp;Delivers credible triage and symptom checking
 &emsp;&emsp;Understands healthcare intents by leveraging built-in language models tuned to medical terminology
 &emsp;&emsp;Handles interruptions, topic changes, human error and complex medical questions
+
 ![symptom checker](https://user-images.githubusercontent.com/101945531/192080454-a6577ea5-7e62-43c8-a17b-fd8121b5a260.png)
 
 ## How we built it
