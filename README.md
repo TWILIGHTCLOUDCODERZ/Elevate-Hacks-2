@@ -1,5 +1,9 @@
 # Elevate-Hacks-2
 
+Link - [https://youtu.be/GCysye370tw](https://youtu.be/GCysye370tw) <br>
+
+Web Page - [https://twilightcloudcoderz.github.io/Elevate-Hacks-2/](https://twilightcloudcoderz.github.io/Elevate-Hacks-2/)
+
 ## Inspiration
 Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
