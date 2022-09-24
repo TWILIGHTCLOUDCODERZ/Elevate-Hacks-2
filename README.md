@@ -17,6 +17,10 @@ Bot asks users questions like their age, gender, and location, any symptoms they
 - Handles interruptions, topic changes, human error and complex medical questions
 
 ![symptom checker](https://user-images.githubusercontent.com/101945531/192080454-a6577ea5-7e62-43c8-a17b-fd8121b5a260.png)
+<br>
+
+![tect bot](https://user-images.githubusercontent.com/113318368/192083384-f80d94fe-7ddf-45bc-a8d5-d3d5d720baed.jpg)
+<br>
 
 ## How we built it
 <br>
@@ -36,3 +40,6 @@ Learnt about dynamics 365 customer insights and azure health bot service
 
 ## What's next for Personal symptom checker Bot
 Need to check AWS cloud service feature and integrating more features
+
+
+
